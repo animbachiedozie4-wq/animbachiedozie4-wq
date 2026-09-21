@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am ANIMBA CHIEDOZIE, an aspiring Cybersecurity and Data Analyst based in Port Harcourt, Nigeria. I am passionate about securing systems, analyzing data, and building practical solutions. I enjoy understanding how systems work, identifying vulnerabilities before they are exploited, and turning messy data into clear insights. I work with Python, SQL, Linux, and security tools to solve complex challenges. I am currently building hands-on projects and improving my skills in threat detection, vulnerability analysis, and data forensics.
+I am ANIMBA CHIEDOZIE, an aspiring Cybersecurity and Data Analyst based in enugu, Nigeria. I am passionate about securing systems, analyzing data, and building practical solutions. I enjoy understanding how systems work, identifying vulnerabilities before they are exploited, and turning messy data into clear insights. I work with Python, SQL, Linux, and security tools to solve complex challenges. I am currently building hands-on projects and improving my skills in threat detection, vulnerability analysis, and data forensics.
 
 > **Motto:** `Securing Systems | Analyzing Data | Building Solutions`
 
@@ -65,6 +65,6 @@ Tool to detect phishing from email headers.
 ### 📫 How to Reach Me
 - **GitHub:** [@animbachiedozie4-wq](https://github.com/animbachiedozie4-wq)
 - **Email:** animbachiedozie4@gmail.com
-- **Location:** Port Harcourt, Nigeria
+- **Location:** enugu, Nigeria
 
 <p align="center">⚡ Stay curious, stay secure — Animba Chiedozie ⚡</p>
